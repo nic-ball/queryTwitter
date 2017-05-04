@@ -30,4 +30,3 @@ foreach ($tweets->statuses as $tweet) {
     print_r($tweet);
     print('</pre>');
 }
-
